@@ -1,4 +1,4 @@
-## 📜 Foro - Tecer Desafio
+## 📜 API Foro - Tercer Desafio
 
 Api elaborado con el objetivo de construir un CRUD para un foro con Java y Spring Boot
 
